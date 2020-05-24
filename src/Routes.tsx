@@ -36,7 +36,7 @@ function Register({
 }) {
   return (
     <Center>
-      <Text>I am a register screen</Text>
+      <Text>I am a register screen test branch</Text>
       <Text>route name: {route.name}</Text>
       <Button
         title='go to login'
