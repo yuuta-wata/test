@@ -16,7 +16,7 @@ const Stack = createStackNavigator<AuthParamList>()
 function Login({ navigation }: any) {
   return (
     <Center>
-      <Text>I am a login screen</Text>
+      <Text>I am a login screen test branch </Text>
       <Button
         title='go to register'
         onPress={() => {
