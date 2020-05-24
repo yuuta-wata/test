@@ -37,9 +37,7 @@ function Register({
   return (
     <Center>
       <Text>I am a register screen</Text>
-      <Text>I am a register screen master branch</Text>
-      <Text>I am a register screen test commit  master branch</Text>
-      <Text>I am a register screen test commit2  master branch</Text>
+      <Text>I am a register screen master branch test2</Text>
       <Text>route name: {route.name}</Text>
       <Button
         title='go to login'
